@@ -9,6 +9,11 @@ class Doctor():
         self.specialty = specialty
         self.room_number = room_number
 
+    def change_name(self,new_name):
+        self.name = new_name
+        
+
+
 
 
 

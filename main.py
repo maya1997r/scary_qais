@@ -10,6 +10,9 @@ def main():
     print(first_doctor.name)
     print(first_patient.name)
 
+    first_doctor.change_name("qais")
+    print(first_doctor.name)
+
 if __name__ == '__main__':
     main()
 
