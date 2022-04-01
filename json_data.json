@@ -1,0 +1,35 @@
+
+
+{
+    "doctors":[
+        {
+            "name": "John Kravitz",
+            "department": "oncology",
+            "free_time_slot": ["00:08","12:00" ,"13:00", "15:00"]
+        },
+        {
+            "name": "Any Silvest",
+            "department": "cardiology",
+            "free_time_slot": ["00:09","12:00" ,"13:00", "16:00"]
+
+            
+        },
+        {
+            "name": "Olga Mikelson",
+            "department": "dermatology",
+            "free_time_slot": ["00:08","12:00" ,"14:00", "15:00"]
+        },
+        {
+            "name": "Mary Alson",
+            "department": "oncology",
+            "free_time_slot": ["00:08","12:00" ,"14:00", "15:00"]
+        },
+        {
+            "name": "Tom Barkly",
+            "department": "ginecology",
+            "free_time_slot": ["00:08","12:30" ,"13:00", "15:00"]
+        }
+    ]
+
+
+}
